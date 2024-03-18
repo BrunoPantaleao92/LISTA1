@@ -18,7 +18,7 @@ public class Programa {
                 break;
 
                 case 4:
-                Exercicio4.executar();
+                Exercicio4.executar(); 
                 break;
 
 

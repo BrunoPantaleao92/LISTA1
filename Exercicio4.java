@@ -9,7 +9,7 @@ public class Exercicio4 {
         Prompt.imprimir("Soma: " + (num1 + num2) + "\n");
         Prompt.imprimir("Subtração: " + (num1 - num2) + "\n");
         Prompt.imprimir("Multiplicação: " + (num1 * num2) + "\n");
-        Prompt.imprimir("Divisão: " + (num1 / num2) + "\n");
+        Prompt.imprimir("Divisão: " + (num1 / num2) + "\n"); 
 
    }
 
