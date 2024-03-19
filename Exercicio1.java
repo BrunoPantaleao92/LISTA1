@@ -11,7 +11,7 @@ public class Exercicio1 {
         int num = leitor.nextInt();
 
         if (num > 10) {
-            System.out.println("Número maior do que 10!");
+            System.out.println("Número maior do que 10! ");
         }
 
         else if (num == 10) {
