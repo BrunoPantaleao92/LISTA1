@@ -50,7 +50,7 @@ public class Programa {
                 break;
 
             case 12:
-                Exercicio11.executar();
+                Exercicio12.executar();
                 break;
 
             default:
